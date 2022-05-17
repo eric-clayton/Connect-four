@@ -86,7 +86,7 @@ public class ConnectFour {
         }
     }
 
-    //This will set each spot in the array to “-”.
+    //This will set each spot in the array to '-'.
     public static void initializeBoard(char[][] array) {
         for (int i = array.length - 1; i >= 0; --i) {
             for (int j = 0; j < array[i].length; ++j) {

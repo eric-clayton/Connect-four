@@ -1,1 +1,2 @@
-# Lab-6
+Connect 4
+Created with java

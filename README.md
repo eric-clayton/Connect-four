@@ -10,4 +10,4 @@ Run the File with java ConnectFour
 
 Select number of columns and rows
 
-When selecting a column to place a chip the coulumns are 0 indexed.
+When selecting a column to place a chip the columns are 0 indexed.

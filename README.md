@@ -4,9 +4,9 @@ Created with java
 
 On windows open a terminal in the folder with ConnectFour.java
 
-Compile the file with javac ConnectFour.java
+Compile the file with `javac ConnectFour.java`
 
-Run the File with java ConnectFour
+Run the File with `java ConnectFour`
 
 Select number of columns and rows
 
